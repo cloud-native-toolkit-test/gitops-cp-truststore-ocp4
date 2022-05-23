@@ -6,4 +6,3 @@ resources:
   - base/gitops-cp-truststore-ibm-truststore-mgr-sa.yaml
   - base/namespace-gitops-cp-truststore.yaml
   - base/openshift-marketplace-ibm-catalogs.yaml
-  - base/openshift-marketplace-ibm-entitlement-key.yaml
